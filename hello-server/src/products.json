@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "nome": "Camara de ar",
+    "preco": -1,
+    "updatedAt": "2026-08-28T18:02:52.985Z"
+  },
+  {
+    "id": 2,
+    "nome": "Camara de ar",
+    "preco": 1
+  },
+  {
+    "id": 3,
+    "produto": "Bola de vôlei",
+    "preco": 38
+  },
+  {
+    "id": 4,
+    "produto": "Chuteira de futebol",
+    "preco": 120
+  },
+  {
+    "id": 5,
+    "produto": "Tênis de corrida",
+    "preco": 150
+  },
+  {
+    "id": 6,
+    "produto": "Luva de goleiro",
+    "preco": 60
+  },
+  {
+    "id": 7,
+    "produto": "Meião esportivo",
+    "preco": 15
+  },
+  {
+    "id": 8,
+    "produto": "Camisa de time",
+    "preco": 90
+  },
+  {
+    "id": 9,
+    "produto": "Calção esportivo",
+    "preco": 35
+  },
+  {
+    "id": 10,
+    "produto": "Rede de gol",
+    "preco": 80
+  },
+  {
+    "id": 11,
+    "produto": "Apito de árbitro",
+    "preco": 12
+  },
+  {
+    "id": 12,
+    "produto": "Cone de treino",
+    "preco": 8
+  },
+  {
+    "id": 13,
+    "produto": "Raquete de tênis",
+    "preco": 180
+  },
+  {
+    "id": 14,
+    "produto": "Bola de tênis (tubo)",
+    "preco": 25
+  },
+  {
+    "id": 15,
+    "produto": "Raquete de ping-pong",
+    "preco": 40
+  },
+  {
+    "id": 16,
+    "produto": "Bola de ping-pong",
+    "preco": 5
+  },
+  {
+    "id": 17,
+    "produto": "Corda de pular",
+    "preco": 18
+  },
+  {
+    "id": 18,
+    "produto": "Colete de treino",
+    "preco": 30
+  },
+  {
+    "id": 19,
+    "produto": "Bomba de encher bola",
+    "preco": 22
+  },
+  {
+    "id": 20,
+    "produto": "Garrafa de água esportiva",
+    "preco": 16
+  },
+  {
+    "id": 21,
+    "nome": "carro",
+    "preco": 1
+  },
+  {
+    "id": 22,
+    "nome": "carro",
+    "preco": 1
+  },
+  {
+    "id": 23,
+    "nome": "carro",
+    "preco": 1
+  },
+  {
+    "id": 24,
+    "nome": "carro",
+    "preco": 1
+  }
+]
